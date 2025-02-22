@@ -1,7 +1,7 @@
 # Shady-Graverobbing
 rob graves and sell the items 
 # Shady-Graverobbing
-*Do you have a shovel? Are you down bad? Need some quick loot to repo it back to a pawn shop? Well fear no more. You can now do exactly that!*
+*Do you have a shovel? Are you down bad? Need some quick loot to repo it back to Shady organbuyer? Well fear no more. You can now do exactly that!*
 
 ## Dependencies
 - qb-core
